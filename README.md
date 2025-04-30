@@ -20,7 +20,7 @@ This project simulates 3D positional control using a combination of **PID contro
 
 ## GNC Flowchart
 
-<img width="775" alt="Screenshot 2025-04-23 at 4 36 03 PM" src="https://github.com/user-attachments/assets/aa5e3cb4-6745-48ff-a2bb-824c683b5886" />
+![GNC Framework](https://github.com/user-attachments/assets/fd0a0579-ad80-4cac-a6a0-10bab72777f6)
 
 ---
 
