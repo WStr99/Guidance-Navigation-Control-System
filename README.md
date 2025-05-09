@@ -26,10 +26,10 @@ This project simulates 3D positional control using a combination of **PID contro
 
 ## Results
 
-X-axis visualization for PID controller/Kalman filter:
-<img width="915" alt="Screenshot 2025-05-08 at 11 47 30 PM" src="https://github.com/user-attachments/assets/9136c710-239b-447d-9654-300cbd5b1e5e" />
+- 2D & 3D visualization of flight path with PID controller & Kalman filter.
+- True data vs estimated position.
 
-3D visualization of UAV flight path:
+<img width="915" alt="Screenshot 2025-05-08 at 11 47 30 PM" src="https://github.com/user-attachments/assets/9136c710-239b-447d-9654-300cbd5b1e5e" />
 <img width="916" alt="Screenshot 2025-05-08 at 11 48 05 PM" src="https://github.com/user-attachments/assets/1aaa7102-c362-49f5-8a60-4e4087901d7a" />
 
 ## Build and Run
